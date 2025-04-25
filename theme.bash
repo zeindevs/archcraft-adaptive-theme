@@ -49,17 +49,17 @@ geany_font='JetBrainsMono Nerd Font 10'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Arc-Dark'
+gtk_theme='Dracula'
 icon_theme='Luv-Folders-Dark'
 cursor_theme='Vimix'
 
 # Openbox
-ob_theme='OB-Adapta-Bitmap'
-ob_layout='DLIMC'
+ob_theme='OB-Adapta'
+ob_layout='DNLSIMC'
 ob_font='JetBrains Mono'
 ob_font_size='9'
 ob_menu='menu-icons.xml'
-ob_margin_t='32'
+ob_margin_t='0'
 ob_margin_b='0'
 ob_margin_l='0'
 ob_margin_r='0'
